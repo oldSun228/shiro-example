@@ -1,5 +1,3 @@
-最近项目比较紧，没有时间解答一些疑问，暂时无法回复一些问题，很抱歉，不过可以加群（334194438/348194195）一起讨论问题。
-
 <h2 style="font-size: 14px;"><a href="http://jinnianshilongnian.iteye.com/blog/2018398" target="_blank">Shiro目录</a></h2>
 <p style="font-size: 14px;"><a href="/blog/2018936" target="_blank">第一章&nbsp; Shiro简介</a></p>
 <p style="font-size: 14px;"><a href="/blog/2019547" target="_blank">第二章&nbsp; 身份验证</a></p>
