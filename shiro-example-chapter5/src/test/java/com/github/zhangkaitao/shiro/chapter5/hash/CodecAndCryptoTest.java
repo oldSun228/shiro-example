@@ -168,7 +168,7 @@ public class CodecAndCryptoTest {
         String text = "hello";
 
         //加密
-        String encrptText = blowfishCipherService.encrypt(text.getBytes(), key.getEncoded()).toHex();
+            String encrptText = blowfishCipherService.encrypt(text.getBytes(), key.getEncoded()).toHex();
         //解密
         String text2 = new String(blowfishCipherService.decrypt(Hex.decode(encrptText), key.getEncoded()).getBytes());
 

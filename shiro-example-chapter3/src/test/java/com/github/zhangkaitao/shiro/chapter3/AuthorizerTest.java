@@ -13,7 +13,7 @@ import org.junit.Test;
  */
 public class AuthorizerTest extends BaseTest {
 
-    @Test
+//    @Test
     public void testIsPermitted() {
         login("classpath:shiro-authorizer.ini", "zhang", "123");
         //判断拥有权限：user:create
